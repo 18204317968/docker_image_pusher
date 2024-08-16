@@ -1,5 +1,4 @@
-nginx
 #支持私库
-xprobe/xinference:v0.12.3
+onerahmet/openai-whisper-asr-webservice:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 eleven/iscas
